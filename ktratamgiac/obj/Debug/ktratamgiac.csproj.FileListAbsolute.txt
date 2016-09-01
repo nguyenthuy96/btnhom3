@@ -1,0 +1,6 @@
+D:\kỳ 5_3\laptrih.net\ktratamgiac\ktratamgiac\bin\Debug\ktratamgiac.exe.config
+D:\kỳ 5_3\laptrih.net\ktratamgiac\ktratamgiac\bin\Debug\ktratamgiac.exe
+D:\kỳ 5_3\laptrih.net\ktratamgiac\ktratamgiac\bin\Debug\ktratamgiac.pdb
+D:\kỳ 5_3\laptrih.net\ktratamgiac\ktratamgiac\obj\Debug\ktratamgiac.csprojResolveAssemblyReference.cache
+D:\kỳ 5_3\laptrih.net\ktratamgiac\ktratamgiac\obj\Debug\ktratamgiac.exe
+D:\kỳ 5_3\laptrih.net\ktratamgiac\ktratamgiac\obj\Debug\ktratamgiac.pdb
